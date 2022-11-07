@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "563703510074",
+    "project_id": "chat-4e442",
+    "storage_bucket": "chat-4e442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563703510074:android:81c55debb4f92a862ef103",
+        "android_client_info": {
+          "package_name": "com.pranjal.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563703510074-6av8vutca4ospk9lthvrd0366182jj4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranjal.chat",
+            "certificate_hash": "50580f84d9f73627d5861bc63d8b87e50ecf1a61"
+          }
+        },
+        {
+          "client_id": "563703510074-4lavdhvef5n89qshti3pr5hicgb5tm8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymd-ysZUZOMcR_terdXyU3lLOC7RoPL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563703510074-4lavdhvef5n89qshti3pr5hicgb5tm8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

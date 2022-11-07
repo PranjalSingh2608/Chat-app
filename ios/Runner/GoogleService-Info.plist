@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>563703510074-tnf4gllj22hpocooctic9linc01r4g4v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.563703510074-tnf4gllj22hpocooctic9linc01r4g4v</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>563703510074-6av8vutca4ospk9lthvrd0366182jj4k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-WpQcFn7CsqHar6WZt7Ie_xcwjHokvwY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>563703510074</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pranjal.chat</string>
+	<key>PROJECT_ID</key>
+	<string>chat-4e442</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-4e442.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:563703510074:ios:ec43db413930356e2ef103</string>
+</dict>
+</plist>
